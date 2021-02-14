@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SueldoMes</string>
+    <string name="tvTitulo">Sueldo empleados</string>
+    <string name="etNombre">Nombres</string>
+    <string name="etApellido">Apellidos</string>
+    <string name="etNacimiento">Fecha de nacimiento</string>
+    <string name="etIngreso">Fecha de ingreso</string>
+    <string name="etSueldo">Sueldo base</string>
+    <string name="etExtras">Horas extra</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvRespuesta"></string>
+</resources>

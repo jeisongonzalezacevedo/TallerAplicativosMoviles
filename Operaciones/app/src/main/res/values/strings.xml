@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="tvTitulo">Operaciones Básicas</string>
+    <string name="etNum1">Primer digito</string>
+    <string name="etNum2">Segundo digito</string>
+    <string name="btnSuma">Sumar</string>
+    <string name="btnResta">Restar</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDividir">Dividir</string>
+    <string name="tvResultado"></string>
+</resources>

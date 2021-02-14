@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcuaciónGrado2</string>
+    <string name="tvTitulo">Ecución de segundo grado</string>
+    <string name="etA">Digite el valor de A</string>
+    <string name="etB">Digite el valor de B</string>
+    <string name="etC">Digite el valor de C</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvRespuesta"></string>
+</resources>
